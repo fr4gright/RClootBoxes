@@ -1,0 +1,14 @@
+name: RClootBoxes
+version: 2.3
+main: me.rvt.rclootboxes.RClootBoxes
+api-version: 1.13
+authors: [RvT]
+description: Adds Loot Boxes to RebrovoCraft
+website: rebrovocraft.info
+commands:
+  lootbox:
+    description: Gives player a lootbox
+    usage: /lootbox <player> <amount>
+  key:
+    description: Gives player a key
+    usage: /key <player> <amount>
